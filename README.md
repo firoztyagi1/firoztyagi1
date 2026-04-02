@@ -12,6 +12,5 @@
 - 💼 Backend Developer working mostly with **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**
 - 🔧 Experienced in building **REST APIs**, **microservices**, and **real-time apps** with **Socket.IO**
 - 🌐 Familiar with **MongoDB**, **TypeScript**, **Redis**, **Socket**, **AWS**, and **CI/CD**
-- 🧠 Currently learning: **Next.js (for fun)**
-
+  
 ---
